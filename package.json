@@ -1,0 +1,14 @@
+{
+  "name": "uuid.now.sh",
+  "private": true,
+  "description": "uuid as a service",
+  "repository": "amio/uuid.now.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amio <amio.jin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@lukeed/uuid": "^1.0.1"
+  }
+}
